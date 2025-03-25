@@ -1,3 +1,4 @@
+<img width="938" alt="Pizza sales Dashboard" src="https://github.com/user-attachments/assets/d1266131-1b95-4ca7-9467-fe5d7a79754c" />
 # Pizza Sales Analysis Project
 
 ## Project Overview
@@ -107,4 +108,6 @@ The project includes SQL queries to compute the required KPIs and sales distribu
 
 ## Author
 Created by - Sainadh
+
+
 
